@@ -1,0 +1,68 @@
+F.de Jong
+NED
+MF,DF
+23 3 4 1 35 7.14
+L.Messi
+ARG
+FW
+33 28 9 0 33 8.50
+A.Fati
+ESP
+FW
+18  4 0 0  7 7.38
+S.Roberto
+ESP
+DF
+29 1 2 1 14 6.73
+J.Alba
+ESP
+DF
+32 3 5 2 32 7.11
+A.Griezmann
+FRA
+FW,MF
+30 12 7 0 33 7.15
+Ter Stegen
+GER
+GK
+29 0 0 38 29 6.64
+S.Busquets
+ESP
+MF
+32 0 4 2 33 6.85
+C.Lenglet
+FRA
+DF
+25 1 0 5 31 6.64
+Pedri
+ESP
+MF
+18 2 3 1 35 6.77
+O.Dembele
+FRA
+FW
+23 5 2 0 27 7.02
+Gerard Pique
+ESP
+DF
+34 0 0 2 16 6.80
+P.Coutinho
+BRA
+MF,FW
+28 2 2 0 12 6.79
+M.Pjanic
+BIH
+MF
+30 0 0 1 17 6.42
+Neto       
+BRA
+GK
+31 0 0 3 6 6.49
+S.Umtiti
+FRA
+DF
+27 0 0 3 12 6.56
+FSFDFF
+BDE
+LU
+10 0 0 0 0 0.00
